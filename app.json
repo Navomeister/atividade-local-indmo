@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "local",
+    "slug": "snack-293b1eef-ea4f-4e1e-9a8d-72977e09d7b2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.anonymous.snack293b1eefea4f4e1e9a8d72977e09d7b2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
